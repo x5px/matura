@@ -1,5 +1,5 @@
 """
-MATURA 2023
+MATURA 2024
 Jakub Rutkowski
 
 # 3 - Palindromy (Szybkie wyszukiwanie)
