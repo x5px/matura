@@ -1,0 +1,39 @@
+Zadanie 1.1
+
+Lp. x y k z Wynik
+1 10 45 22 220 450
+2 10 22 11 110 220
+3 10 11 5 50 110
+4 10 5 2 20 50
+5 10 2 1 20 10
+6 10 1 - - 10
+
+
+Zad. 1.2
+5
+5
+9
+8
+
+
+
+czy_mniejszy (n, s, k1, k2)
+	i ← k1
+	j ← k2
+	dopóki ( i ≤ n oraz j ≤ n ) wykonuj
+		jeżeli ( s[i] == s[j] )
+
+			i ← i + 1
+			j ← j + 1
+		w przeciwnym razie
+			jeżeli ( s[i] < s[j] )
+				zakończ z wynikiem PRAWDA
+			w przeciwnym razie
+				zakończ z wynikiem FAŁSZ
+	jeżeli ( j ≤ n )
+		zakończ z wynikiem PRAWDA
+	w przeciwnym razie
+		zakończ z wynikiem FAŁSZ
+
+1 2
+aaaaabcdef

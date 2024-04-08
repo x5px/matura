@@ -1,0 +1,6 @@
+ID_KOSZTU;NAZWA
+k1;zakup
+k2;prace elektryczne
+k3;prace blacharskie
+k4;prace lakiernicze
+k5;naprawa

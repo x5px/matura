@@ -1,0 +1,45 @@
+ID_POJAZDU;RODZAJ;KWOTA
+AO0001;sprzeda¿ komisowa;18000
+AO0002;sprzeda¿ komisowa;7000
+AO0003;sprzeda¿ komisowa;30000
+AO0004;sprzeda¿ czêœci;3500
+AO0005;sprzeda¿ komisowa;21000
+AO0007;sprzeda¿ komisowa;35000
+AO0008;z³omowanie;0
+AO0009;sprzeda¿ komisowa;12500
+AO0010;z³omowanie;0
+AO0011;sprzeda¿ czêœci;1800
+AO0012;sprzeda¿ komisowa;42000
+AO0013;sprzeda¿ komisowa;1800
+AO0015;sprzeda¿ komisowa;35000
+AO0016;sprzeda¿ czêœci;3500
+AO0017;z³omowanie;0
+AO0018;sprzeda¿ komisowa;14500
+AO0019;sprzeda¿ komisowa;7500
+AO0020;sprzeda¿ komisowa;24000
+AO0021;sprzeda¿ czêœci;2500
+AO0022;sprzeda¿ komisowa;19500
+AO0023;sprzeda¿ komisowa;45000
+AO0024;sprzeda¿ komisowa;25000
+AO0025;sprzeda¿ czêœci;3100
+AD0001;sprzeda¿ komisowa;26000
+AD0003;sprzeda¿ komisowa;28000
+AD0005;sprzeda¿ komisowa;21000
+AD0006;sprzeda¿ komisowa;19000
+AD0007;sprzeda¿ czêœci;5500
+AD0008;sprzeda¿ komisowa;20000
+AD0009;sprzeda¿ komisowa;19000
+AD0010;sprzeda¿ komisowa;20000
+AD0011;sprzeda¿ czêœci;3000
+AD0012;sprzeda¿ komisowa;35000
+AD0014;sprzeda¿ komisowa;25000
+AD0015;sprzeda¿ czêœci;7000
+AD0016;sprzeda¿ komisowa;30000
+AD0017;sprzeda¿ komisowa;25000
+AD0018;sprzeda¿ komisowa;20000
+AD0019;sprzeda¿ komisowa;27000
+AD0020;sprzeda¿ komisowa;20000
+AD0021;sprzeda¿ czêœci;9000
+AD0023;z³omowanie;0
+AD0024;sprzeda¿ komisowa;25000
+AD0025;z³omowanie;0

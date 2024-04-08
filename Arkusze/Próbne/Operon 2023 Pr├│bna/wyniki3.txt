@@ -1,0 +1,5 @@
+3.2
+BRAK
+
+3.3
+['AOSK', 'OAKS', 'OKSA', 'OSKA', 'KASO', 'SKOA', 'OSAK', 'SAKO', 'KSOA', 'SAOK', 'AKSO', 'SOAK', 'AOKS', 'KSAO', 'OASK', 'SOKA', 'KOSA', 'KOAS', 'SKAO', 'ASKO', 'ASOK', 'OKAS', 'KAOS']

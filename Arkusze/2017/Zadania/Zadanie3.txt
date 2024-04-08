@@ -1,0 +1,6 @@
+Zad. 3.1
+F, P, F, P
+Zad. 3.2
+F, P, P, F
+Zad. 3.3
+P, F, F, P

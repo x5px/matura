@@ -1,0 +1,1 @@
+SELECT SUM(cena) FROM sklep INNER JOIN gry ON sklep.id_gry=gry.id_gry WHERE gry.kategoria = 'logiczna' AND sklep.promocja = TRUE
